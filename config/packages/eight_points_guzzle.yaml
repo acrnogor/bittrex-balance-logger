@@ -1,0 +1,7 @@
+eight_points_guzzle:
+    clients:
+        bittrex:
+            base_url: 'https://bittrex.com'
+            options:
+                headers:
+                    Accept: "application/json"
